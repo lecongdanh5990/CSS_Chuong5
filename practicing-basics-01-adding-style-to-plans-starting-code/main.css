@@ -172,4 +172,28 @@ article.product-item__highlighted{
     border-radius: 50%;
     background-color: aliceblue;
 }
+.main-footer{
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+}
+.main-footer__links{
+    text-align: center;
 
+}
+.main-footer li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+.main-footer a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.main-footer a:hover,
+.main-footer a:active{
+    color: yellow;
+    text-decoration: underline;
+    
+}
